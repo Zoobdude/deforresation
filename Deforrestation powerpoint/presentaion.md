@@ -25,7 +25,7 @@ section {
 </style>
 
 
-# Deforrestation
+# Deforestation
 
 ![bg right vertical](https://www.unveil.press/wp-content/uploads/2021/01/b45dce32-21f4-4646-99d0-2057f6a12e49.jpg)
 ![bg right](https://eagle.co.ug/wp-content/uploads/2016/07/deforestation.jpg)
@@ -62,17 +62,60 @@ section {
 
 # Education
 
- ensuring those involved in exploitation and management of the forest understand the consequences of their actions.· Afforestation - the opposite of deforestation. If trees are cut down, they are replaced to maintain the canopy.
+## Spreading awareness of the importance of forests and the consequences of deforestation
+
+* Make sure we hold those responsible for deforestation accountable
+
+* Make sure we educate the next generation on the importance of forests
+
+![bg right](kid.png)
+---
+ 
+# Afforestation
+
+## The opposite of deforestation
+If trees are cut down, they are replaced to maintain the canopy.
 
 ---
 
 # Forest Reserves
 
-A forest reserve is a protected area of forest land. It is a forest that is protected from human exploitation and disturbance.
+## A forest reserve is a protected area of forest land
+
+* It is a forest that is protected from human exploitation and disturbance.
+
+![bg right](https://greenglobaltravel.com/wp-content/uploads/2018/04/Gondwana-Rainforest-Biggest-Forest-feature-update.jpg)
 
 ---
 
 # Monitoring
 
-Use of satellite technology and photography to check that any activities taking place are legal and follow guidelines for sustainability.
+## Use of satellite technology and photography
+* This is to check that any activities taking place are legal and follow guidelines for sustainability.
 
+![bg right](https://www.ictinternational.com/content/uploads/2017/04/sfm_tdp-700x809.jpg)
+
+---
+
+<!-- Scoped style -->
+<style scoped>
+h1 {
+  text-align: center;
+  font-size: 100px;
+}
+
+h2{
+  text-align: center;
+  font-size: 50px;
+}
+
+section {
+  text-align: center;
+  font-size: 40px;
+}
+
+</style>
+# I hope you enjoyed our presentation
+## Thank you for listening
+
+Now on to our groovy quiz
